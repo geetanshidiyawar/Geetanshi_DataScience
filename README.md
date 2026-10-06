@@ -7,4 +7,4 @@ Files:
 - `style.css` — styling
 - `script.js` — browser-side cleaning, calculations and charts
 
-For local testing, run `python -m http.server 8000` in this folder and open `http://localhost:8000`.
+For local testing, run `python -m http.server 9000` in this folder and open `http://localhost:9000`.
